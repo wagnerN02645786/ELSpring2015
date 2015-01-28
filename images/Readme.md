@@ -1,5 +1,5 @@
 Images Directory.
-All your images should go here.
+All of my (N02645786) images will go here.
 Images must be names so that they are self-explantory, as much as possible.
 
 
